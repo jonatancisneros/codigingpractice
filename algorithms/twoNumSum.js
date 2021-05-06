@@ -19,9 +19,7 @@ function getTargetSum(inputArray, target)
        }
       
     }
-
-    console.log(stack);
-
+ 
 }
 let val= getTargetSum(inputArray, targetSum);
 console.log(val);
